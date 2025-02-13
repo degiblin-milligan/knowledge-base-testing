@@ -2,5 +2,5 @@
 
 ## Table of Contents
 
-* [[Hello]]
-* [[World]]
+* [Hello](Hello.md)
+* [World](World.md)
